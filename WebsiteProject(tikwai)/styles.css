@@ -1,0 +1,614 @@
+{
+	box-sizing:border-box;
+}
+body {
+	margin:0;
+}
+.gjs-icon {
+	display:inline-block;
+	text-decoration:none;
+	color:inherit;
+	vertical-align:middle;
+	fill:currentColor;
+	width:50px;
+	height:50px;
+}
+.gjs-grid-column {
+	flex:1 1 0%;
+	padding:5px 0;
+}
+.gjs-link {
+	vertical-align:top;
+	max-width:100%;
+	display:inline-block;
+	text-decoration:none;
+	color:inherit;
+}
+.gjs-grid-row {
+	display:flex;
+	justify-content:flex-start;
+	align-items:stretch;
+	flex-direction:row;
+	min-height:auto;
+	padding:10px 0;
+}
+.gjs-heading {
+	margin:0;
+}
+.gjs-heading {
+	margin:0;
+	color:rgba(29,40,55,1);
+}
+.gjs-grid-column {
+	flex:1 1 0%;
+	padding:5px 0;
+}
+.gjs-grid-row {
+	display:flex;
+	justify-content:flex-start;
+	align-items:stretch;
+	flex-direction:row;
+	min-height:auto;
+	padding:10px 0;
+}
+.gjs-link {
+	vertical-align:top;
+	max-width:100%;
+	display:inline-block;
+	text-decoration:none;
+	color:inherit;
+	transition:color 0.3s ease 0s;
+}
+#iffs {
+	flex:0 1 auto;
+}
+#iyd2 {
+	align-items:center;
+	justify-content:space-between;
+	padding-top:0px;
+	padding-bottom:0px;
+	background-color:rgba(184,174,77,0.17);
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-right-radius:10px;
+	border-bottom-left-radius:10px;
+	backdrop-filter:blur(13px);
+	box-shadow:0px 2px 7px 0px rgba(0,0,0,0.14);
+}
+#i6po {
+	justify-content:center;
+	position:sticky;
+	top:15px;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:20px;
+	padding-right:20px;
+	background-color:rgba(255,185,0,1);
+}
+#itjq {
+	width:100%;
+	max-width:1200px;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+#it00l {
+	padding-top:0px;
+	padding-bottom:0px;
+}
+#icfyb {
+	padding:10px;
+	font-family:Arial,Helvetica,sans-serif;
+	padding-left:20px;
+	padding-right:20px;
+}
+#irtfd {
+	flex:0 1 auto;
+}
+#i88iz {
+	padding:10px;
+	font-family:Arial,Helvetica,sans-serif;
+	padding-left:20px;
+	padding-right:20px;
+}
+#icyzp {
+	flex:0 1 auto;
+}
+#irz7b {
+	justify-content:center;
+	padding-top:80px;
+	padding-bottom:80px;
+	padding-left:20px;
+	padding-right:20px;
+	background-color:rgba(174,158,255,1);
+	background-image:url("https://people.com/thmb/SjtsY_ZQt5x66vYdW9GHsaBUayc=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(560x0:562x2):format(webp)/kobe-bryant-gianna-dd954cc94d094e419987552e6a324b31.jpg");
+	background-position:0px 0px;
+	background-size:229px 216px;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	background-origin:content-box;
+}
+#iycz3 {
+	max-width:1200px;
+	align-items:center;
+	display:flex;
+	flex-direction:column;
+	gap:10px;
+}
+#irjua {
+	font-size:3rem;
+	text-align:center;
+	font-family:Brush Script MT,sans-serif;
+}
+#itndw {
+	padding:10px;
+	max-width:750px;
+	margin-bottom:25px;
+	text-align:center;
+}
+.text-main-content {
+	line-height:30px;
+	font-size:1.2rem;
+}
+#iau9 {
+	font-family:Arial,Helvetica,sans-serif;
+	background-image:linear-gradient(180deg,rgba(59,130,245,0.11),white 14%);
+	background-position:0px 0px;
+	background-size:100% 100%;
+	background-repeat:repeat;
+	background-attachment:scroll;
+	background-origin:padding-box;
+	color:#475569;
+}
+#ij2gh {
+	font-size:1.2rem;
+	margin-bottom:15px;
+	color:rgba(28,33,21,1);
+	font-family:Comic Sans MS,cursive,sans-serif;
+}
+#igrx8 {
+	padding:10px;
+	max-width:755px;
+	margin-bottom:25px;
+	padding-left:0px;
+	padding-right:0px;
+	flex:0 0 auto;
+	align-self:auto;
+	color:rgba(189,137,137,1);
+	font-family:Courier New,Courier,monospace;
+}
+#imymf {
+	max-width:1200px;
+	align-items:center;
+	display:flex;
+	flex-direction:column;
+}
+#feature-section {
+	justify-content:center;
+	padding-top:80px;
+	padding-bottom:80px;
+	padding-left:20px;
+	padding-right:20px;
+	background-color:rgba(251,242,100,1);
+}
+#ib541 {
+	gap:100px;
+	justify-content:space-between;
+}
+#iz8m8 {
+	display:flex;
+	flex-direction:column;
+	align-items:flex-start;
+	justify-content:center;
+}
+#i8isa {
+	padding:10px;
+	padding-left:0px;
+	padding-right:0px;
+	font-family:Courier New,Courier,monospace;
+}
+#i8w4i {
+	max-width:1200px;
+	display:flex;
+	flex-direction:column;
+}
+#ioyxg {
+	justify-content:center;
+	padding-top:80px;
+	padding-bottom:80px;
+	padding-left:20px;
+	padding-right:20px;
+	background-color:rgba(247,156,156,1);
+}
+#iiacm {
+	font-size:2.5rem;
+	margin-bottom:10px;
+	max-width:750px;
+	font-family:Georgia,serif;
+}
+#ixzh1 {
+	width:100%;
+	flex-wrap:wrap;
+	justify-content:flex-start;
+	gap:50px;
+}
+.gjs-grid-column.feature-item {
+	padding-top:15px;
+	padding-right:15px;
+	padding-bottom:15px;
+	padding-left:15px;
+	display:flex;
+	flex-direction:column;
+	gap:15px;
+	min-width:30%;
+}
+#ihap8q {
+	font-size:2.5rem;
+	margin-bottom:10px;
+	text-align:center;
+	font-family:Courier New,Courier,monospace;
+}
+#ia7pcr {
+	color:black;
+	border-top-left-radius:100%;
+	border-top-right-radius:100%;
+	border-bottom-right-radius:100%;
+	border-bottom-left-radius:100%;
+	max-width:100%;
+	width:247px;
+	border-top-width:3px;
+	border-right-width:3px;
+	border-bottom-width:3px;
+	border-left-width:3px;
+	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-top-color:rgb(36,99,235);
+	border-right-color:rgb(36,99,235);
+	border-bottom-color:rgb(36,99,235);
+	border-left-color:rgb(36,99,235);
+	background-image:unset;
+	background-position:unset;
+	background-size:unset;
+	background-repeat:unset;
+	background-attachment:unset;
+	background-origin:unset;
+	display:block;
+	background-clip:border-box;
+	padding-top:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	height:181px;
+	margin-top:0px;
+	margin-right:2px;
+	margin-bottom:0px;
+	margin-left:0px;
+}
+#i5k4nf {
+	width:100%;
+	flex-wrap:wrap;
+	justify-content:flex-start;
+	gap:50px;
+}
+#infwen {
+	max-width:1200px;
+	align-items:center;
+	display:flex;
+	flex-direction:column;
+}
+#testimonial-section {
+	justify-content:center;
+	padding-top:80px;
+	padding-bottom:80px;
+	padding-left:20px;
+	padding-right:20px;
+}
+#inea73 {
+	justify-content:space-between;
+}
+.gjs-grid-column.testimonial-item {
+	padding-top:15px;
+	padding-right:15px;
+	padding-bottom:15px;
+	padding-left:15px;
+	display:flex;
+	flex-direction:column;
+	gap:15px;
+	min-width:45%;
+	background-color:rgba(247,247,247,0.23);
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-right-radius:5px;
+	border-bottom-left-radius:5px;
+	align-items:flex-start;
+	border-top-width:1px;
+	border-right-width:1px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-top-color:rgba(0,0,0,0.06);
+	border-right-color:rgba(0,0,0,0.06);
+	border-bottom-color:rgba(0,0,0,0.06);
+	border-left-color:rgba(0,0,0,0.06);
+}
+#it3yug {
+	padding:10px;
+	padding-left:0px;
+	padding-right:0px;
+}
+#i8gt4n {
+	padding:10px;
+	padding-left:0px;
+	padding-right:0px;
+	font-family:Comic Sans MS,cursive,sans-serif;
+}
+#ixzdlj {
+	color:black;
+	border-top-left-radius:100%;
+	border-top-right-radius:100%;
+	border-bottom-right-radius:100%;
+	border-bottom-left-radius:100%;
+	max-width:100%;
+	width:238px;
+	border-top-width:3px;
+	border-right-width:3px;
+	border-bottom-width:3px;
+	border-left-width:3px;
+	border-top-color:rgb(36,99,235);
+	border-right-color:rgb(36,99,235);
+	border-bottom-color:rgb(36,99,235);
+	border-left-color:rgb(36,99,235);
+	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	background-image:url("https://placehold.co/150/777/white.png?text=IMAGE");
+	background-position:0px 0px;
+	background-size:50px 50px;
+	background-repeat:repeat;
+	background-attachment:scroll;
+	background-origin:padding-box;
+	height:165px;
+}
+#inucqu {
+	flex:0 1 auto;
+}
+#ish0zj {
+	width:100%;
+	gap:20px;
+	align-items:center;
+}
+#idndjn {
+	justify-content:space-between;
+}
+.gjs-text-blue {
+	color:rgb(36,99,235);
+}
+#ism014 {
+	font-size:2.5rem;
+	font-family:Comic Sans MS,cursive,sans-serif;
+}
+#in201n {
+	padding:10px;
+	max-width:750px;
+	margin-bottom:35px;
+	padding-left:0px;
+	padding-right:0px;
+	text-align:center;
+	margin-top:35px;
+	font-family:Comic Sans MS,cursive,sans-serif;
+}
+#ik2rdi {
+	max-width:1200px;
+	align-items:center;
+	display:flex;
+	flex-direction:column;
+	padding-top:50px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-left:50px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-top-width:1px;
+	border-right-width:1px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-top-color:rgba(0,0,0,0.06);
+	border-right-color:rgba(0,0,0,0.06);
+	border-bottom-color:rgba(0,0,0,0.06);
+	border-left-color:rgba(0,0,0,0.06);
+	background-image:radial-gradient(515px at 50% 141%,rgba(35,98,235,0.22) 10%,white 90%);
+	background-position:0px 0px;
+	background-size:100% 100%;
+	background-repeat:repeat;
+	background-attachment:scroll;
+	background-origin:padding-box;
+	box-shadow:0px 10px 15px 0 rgba(0,0,0,0.07);
+}
+#iz29ek {
+	justify-content:center;
+	padding-top:80px;
+	padding-bottom:80px;
+	padding-left:20px;
+	padding-right:20px;
+	background-color:rgba(80,73,73,1);
+}
+.gjs-link:hover {
+	color:rgb(36,99,235);
+	text-decoration:underline;
+}
+.gjs-icon {
+	display:inline-block;
+	text-decoration:none;
+	color:inherit;
+	vertical-align:middle;
+	fill:currentColor;
+	width:50px;
+	height:50px;
+}
+#ihs4lb {
+	font-size:1.2rem;
+	margin-bottom:15px;
+	color:rgba(149,60,238,1);
+	font-family:Arial Black,Gadget,sans-serif;
+}
+.gjs-icon.gjs-feature-icon {
+	padding-top:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	padding-left:10px;
+	background-color:rgb(36,99,235);
+	color:white;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-right-radius:10px;
+	border-bottom-left-radius:10px;
+}
+#izqkf7 {
+	padding:10px;
+	padding-left:0px;
+	padding-right:0px;
+	font-family:Courier New,Courier,monospace;
+}
+#ickn3f {
+	padding:10px;
+	padding-left:0px;
+	padding-right:0px;
+	font-family:Courier New,Courier,monospace;
+}
+#i83vu9 {
+	font-size:2.5rem;
+	text-align:center;
+	font-family:Brush Script MT,sans-serif;
+}
+#infmy1 {
+	padding:10px;
+	font-family:Arial,Helvetica,sans-serif;
+	padding-left:20px;
+	padding-right:20px;
+}
+#ioi5cg {
+	color:rgba(236,230,244,1);
+	font-family:Arial,sans-serif;
+	font-size:14px;
+	background-color:rgb(31,31,31);
+}
+#i2y8a7 {
+	color:rgb(191,191,191);
+	font-family:Arial,sans-serif;
+	font-size:14px;
+	background-color:rgb(31,31,31);
+}
+#iepks {
+	background-image:url("https://people.com/thmb/aCeE7Z1mxlesmnBkCNwyBO5wXHc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(739x81:741x83):format(webp)/kobe-bryant-cover-nba-2k-070523-tout-24f48f66b19f4bc9ab9427889c6425e0.jpg");
+	background-position:0px 0px;
+	background-size:431px 300px;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	background-origin:padding-box;
+}
+#ipmqo6 {
+	background-image:url("https://www.logodesignlove.com/images/classic/nba-logo.jpg");
+	background-position:0px 0px;
+	background-size:50px 50px;
+	background-repeat:repeat;
+	background-attachment:scroll;
+	background-origin:padding-box;
+	backface-visibility:visible;
+}
+.gjs-divider {
+	height:3px;
+	width:100%;
+	margin:10px;
+	background-color:rgba(0,0,0,0.05);
+}
+#ibdusm {
+	background-image:url("https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/dataimagewebpbase64UklGRpBtAwBXRUJQVlA4IIRtAwCwRGd-86951c2fe8e4a5988a95a0cb03f2bea6.jpg");
+	background-position:0px 0px;
+	background-size:50px 50px;
+	background-repeat:repeat;
+	background-attachment:scroll;
+	background-origin:padding-box;
+}
+#ipmept {
+	background-image:url("https://framerusercontent.com/images/oKO77eG698GkGRaybJscEWfHGnE.png");
+	background-position:0px 0px;
+	background-size:50px 50px;
+	background-repeat:repeat;
+	background-attachment:scroll;
+	background-origin:padding-box;
+	width:50px;
+	align-self:auto;
+	flex:0 0 auto;
+	max-width:147px;
+	margin-top:-3px;
+	margin-right:-3px;
+	margin-bottom:-3px;
+	margin-left:-3px;
+}
+#ikiwvq {
+	font-size:19.2px;
+	background-color:rgba(247,156,156,0.07);
+	font-family:Comic Sans MS,cursive,sans-serif;
+}
+#irczm2 {
+	background-image:url("https://logosandtypes.com/wp-content/uploads/2020/06/Oscars.png");
+	background-position:0px 0px;
+	background-size:50px 50px;
+	background-repeat:repeat;
+	background-attachment:scroll;
+	background-origin:padding-box;
+	width:50px;
+}
+#ikfk1u {
+	color:black;
+	padding-top:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+}
+#ividvn {
+	font-family:Georgia,serif;
+}
+#iat5u3 {
+	font-family:Georgia,serif;
+}
+#iq86f2 {
+	font-family:Georgia,serif;
+}
+@media (max-width:992px) {
+	.gjs-grid-row {
+	flex-direction:column;
+}
+.gjs-grid-row {
+	flex-direction:column;
+}
+#ish0zj {
+	flex-direction:row;
+}
+#iyd2 {
+	flex-direction:row;
+}
+#it00l {
+	flex-direction:row;
+}
+}@media (max-width:768px) {
+	#iffs {
+	display:none;
+}
+}

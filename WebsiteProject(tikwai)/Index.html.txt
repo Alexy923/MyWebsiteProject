@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Home</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="index,follow">
+  <meta name="generator" content="GrapesJS Studio">
+</head>
+
+<body id="iau9">
+  <div id="i6po" class="gjs-grid-row">
+    <div id="itjq" class="gjs-grid-column">
+      <div id="iyd2" class="gjs-grid-row">
+        <div id="iffs" class="gjs-grid-column">
+          <div id="it00l" class="gjs-grid-row">
+            <div id="irtfd" class="gjs-grid-column"><a id="icfyb" href="#feature-section" class="gjs-link">About</a><a
+                href="#feature-section" id="infmy1" class="gjs-link">Legacy</a></div>
+            <div id="icyzp" class="gjs-grid-column"><a id="i88iz" href="#testimonial-section"
+                class="gjs-link">Quotes<br/><br/></a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="irz7b" class="gjs-grid-row">
+    <div id="iycz3" class="gjs-grid-column">
+      <h1 id="irjua" class="gjs-heading">Kobe Bryant</h1>
+      <div id="itndw" class="text-main-content"><br id="i6vf7t"/>By:Alex(Tik wai) Yuen</div>
+    </div>
+  </div>
+  <div id="feature-section" class="gjs-grid-row">
+    <div id="imymf" class="gjs-grid-column">
+      <div id="ib541" class="gjs-grid-row">
+        <div id="iz8m8" class="gjs-grid-column">
+          <h4 id="ij2gh" class="gjs-heading gjs-text-blue">Introduction</h4>
+          <h2 id="ism014" class="gjs-heading">Who is Kobe Bryant</h2><span id="i2y8a7"> </span>
+          <div id="igrx8" class="text-main-content">
+            <span id="ioi5cg">Kobe Bean Bryant was an American professional basketball player. A shooting guard, he spent his entire 20-year career with the Los Angeles Lakers in the National Basketball Association.</span>
+          </div>
+        </div>
+        <div id="iepks" class="gjs-grid-column"></div>
+      </div>
+    </div>
+  </div>
+  <div id="ioyxg" class="gjs-grid-row">
+    <div id="i8w4i" class="gjs-grid-column">
+      <h4 id="ihs4lb" class="gjs-heading gjs-text-blue">Kobe's dedication and philosophy continue to motivate
+        individuals across the globe.</h4>
+      <h2 id="iiacm" class="gjs-heading">Remarkable Accolades of Kobe Bryant</h2>
+      <div id="ixzh1" class="gjs-grid-row">
+        <div id="ilpi3" class="gjs-grid-column feature-item">
+          <h1 id="ividvn" class="gjs-heading">NBA Achievements</h1>
+          <div data-type-icon id="ipmqo6" class="gjs-icon gjs-feature-icon"><svg viewBox="0 0 24 24">
+              <path
+                d="M16 9h3l-5 7m-4-7h4l-2 8M5 9h3l2 7m5-12h2l2 3h-3m-5-3h2l1 3h-4M7 4h2L8 7H5m1-5L2 8l10 14L22 8l-4-6H6z">
+              </path>
+            </svg></div>
+          <div id="i8isa" class="text-main-content"> 5-time NBA Champion (2000–2002, 2009,
+            2010).<br/>  - 18-time NBA All-Star.<br/>  - 2-time NBA Finals MVP (2009, 2010).</div>
+        </div>
+        <div id="ic57kq" class="gjs-grid-column feature-item">
+          <h1 id="iat5u3" class="gjs-heading">Scoring Milestones</h1>
+          <div data-type-icon id="ibdusm" class="gjs-icon gjs-feature-icon"><svg viewBox="0 0 24 24">
+              <path
+                d="M16 9h3l-5 7m-4-7h4l-2 8M5 9h3l2 7m5-12h2l2 3h-3m-5-3h2l1 3h-4M7 4h2L8 7H5m1-5L2 8l10 14L22 8l-4-6H6z">
+              </path>
+            </svg></div>
+          <div id="ickn3f" class="text-main-content">- Scored 81 points in a single game against the Toronto Raptors in
+            2006, the second-highest in NBA history.<br/>  - Won 2 NBA scoring titles (2006, 2007).</div>
+        </div>
+        <div id="idv32l" class="gjs-grid-column feature-item">
+          <h1 id="iq86f2" class="gjs-heading">International and Post-Career</h1>
+          <div data-type-icon id="irczm2" class="gjs-icon gjs-feature-icon"><svg viewBox="0 0 24 24">
+              <path
+                d="M16 9h3l-5 7m-4-7h4l-2 8M5 9h3l2 7m5-12h2l2 3h-3m-5-3h2l1 3h-4M7 4h2L8 7H5m1-5L2 8l10 14L22 8l-4-6H6z">
+              </path>
+            </svg></div>
+          <div data-type-icon id="ipmept" class="gjs-icon gjs-feature-icon"><svg viewBox="0 0 24 24">
+              <path
+                d="M16 9h3l-5 7m-4-7h4l-2 8M5 9h3l2 7m5-12h2l2 3h-3m-5-3h2l1 3h-4M7 4h2L8 7H5m1-5L2 8l10 14L22 8l-4-6H6z">
+              </path>
+            </svg></div>
+          <div id="izqkf7" class="text-main-content">2-time Olympic gold medalist with Team USA (2008, 2012).<br/>  - Academy Award winner for Best Animated Short Film ("Dear Basketball," 2018).
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="testimonial-section" class="gjs-grid-row">
+    <div id="infwen" class="gjs-grid-column">
+      <h2 id="ihap8q" class="gjs-heading">Quotes</h2>
+      <div id="i5k4nf" class="gjs-grid-row">
+        <div id="inea73" class="gjs-grid-column testimonial-item"><img src="https://people.com/thmb/UNSm2PTm0T3K_okPtvto0hdMVE4=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(602x0:604x2):format(webp)/kobe-bryant-4-dd6196bf7fdc48da8049fdcb9b3b55d3.jpg" id="ia7pcr"/>
+          <div id="it3yug" class="text-main-content">
+            <span id="ikiwvq">"I can't relate to lazy people. We don't speak the same language. I don't understand you. I don't want to understand you."</span>
+          </div>
+        </div>
+        <div id="idndjn" class="gjs-grid-column testimonial-item">
+          <div id="ish0zj" class="gjs-grid-row">
+            <div id="inucqu" class="gjs-grid-column"><img src="https://people.com/thmb/BBSOuxuAXXA7QEquJdwp0ivYRKw=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/kobe-bryant-1-2000-db9ce0f68eb341db8a474cc1178cb582.jpg" id="ixzdlj"/>
+            </div>
+          </div>
+          <div id="i8gt4n" class="text-main-content">"Everything negative – pressure, challenges – is all an opportunity
+            for me to rise."</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="isp6cj" class="gjs-divider"></div>
+  <div id="iz29ek" class="gjs-grid-row">
+    <div id="ik2rdi" class="gjs-grid-column">
+      <h2 id="i83vu9" class="gjs-heading">Gone But Not Forgotten</h2>
+      <div id="in201n" class="text-main-content">His tragic passing in January 2020, along with his daughter Gianna and
+        seven others, left a profound impact on fans and the global sports community. Kobe's legacy continues through
+        the Kobe and Vanessa Bryant Foundation and numerous initiatives supporting youth sports and education.<br/>
+      </div>
+    </div>
+  </div><img id="ikfk1u" src="https://people.com/thmb/Y-E14TQ6q-ZcDUnS57c4QLF6lK0=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/gettyimages-1202167087-2000-8203bbdbacdb4d83a1f368b5e18b67a8.jpg"/>
+</body>
+
+</html>
